@@ -1,0 +1,8 @@
+What is pytorch?
+- Most popular deep learning framework
+- Able to access prebuilt deep learning models
+- Whole stack:preprocess data, model data, deploy..
+
+GPU/TPU => Graphics Processing Unit, Tensor Processing Unit
+Tensor = Numbers on nerual networks are tensors
+

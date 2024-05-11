@@ -1,0 +1,41 @@
+What is deep learning(subset of ML)?
+Traditional programming is we have inputs and then alogirthms and we have to figure out the oututs. while machine learning figures out the algorithms(relationship) when input(features) and output(labels) are given.
+
+Why use ML?
+=> can we think of all the rules for complex problems ? thats why..
+
+Deep learnign is good for:
+- Problems with long rules
+- Deep learning can adapt.
+- Large collection of data.
+
+When not :
+- When you need explainibility.
+- When Traditional is better option.
+- When errors are unacceptable. (Outputs are not predictables always)
+- When there is not huge amount of data.
+
+Machine Learning vs Deep learning
+=> Machine Learning -- Structured data (Row, collumns..)
+=> Deep learning -- Unstructured data(image, audio, texts..)
+
+Common algorithms: 
+- Random forest, gradiant boosted model, Naive bayes, nearest neighbour,.. (ML)
+- Neural Network, {fully connected, convolutional, recurrect} Neural Network, Transformer... (DL)
+
+Neural Networks => 
+Input => Data to numbers(Numerical Encoding) => passing through a neural netowrk(Learn representation) => representation outputs => Outputs
+Anatomy =? Input layer => Hidden layer(s) => Ouput Layer 
+Each leayer =? combination of linear and non-linear functions
+
+Types of Learning =>
+- Supervised (With huge data)
+- Unsupervised & self-supervised (Without labels but with features)
+- Transfer learning (Transfering one model's learning to one's)
+(There is also Reinforcement Learning)
+
+What is deep learing actually used for ?
+=> Recommendation,
+translation, sppech recognition=> sequence to sequence, 
+computer vision, natural language processing(Like spam or not spam in mail) => Classification/regreesion
+
